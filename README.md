@@ -1,7 +1,7 @@
 Project Page: https://kaankocaturkmen.github.io/PsychologyProject/
 # Emotion Mapping System for Music Listening
 
-This project is a web-based software tool developed for the **Psychology Department at Samsun University**. It enables emotional mapping based on user interaction with a coordinate system while listening to music. The application helps analyze how users emotionally respond to different parts of a song in real time.
+This project is a web-based software tool developed for the **Psychology Department at Samsun Ondokuz Mayıs University**. It enables emotional mapping based on user interaction with a coordinate system while listening to music. The application helps analyze how users emotionally respond to different parts of a song in real time.
 
 ## 🎯 Project Purpose
 
